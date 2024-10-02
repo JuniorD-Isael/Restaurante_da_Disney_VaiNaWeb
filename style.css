@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding-top: 30px;
+  background-color: tomato;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+img {
+  width: 200px;
+}
+
+figure {
+  margin-left: 200px;
+  margin-top: 15px;
+}/*# sourceMappingURL=style.css.map */
